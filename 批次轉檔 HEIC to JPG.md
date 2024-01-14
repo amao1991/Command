@@ -17,5 +17,3 @@ brew install imagemagick
 ```
 magick mogrify -monitor -format JPG *.HEIC
 ```
-
-![Uploading S__57376781.jpg…]()
